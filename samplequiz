@@ -1,0 +1,12 @@
+GitHub Repository
+│
+├── index.html        ← Main webpage
+├── style.css         ← Colors, fonts, layout
+├── script.js         ← Quiz logic
+├── /images
+│      muppets.png
+│      barbie.png
+│      heman.png
+│      marvel.png
+└── /results
+       characters.js  ← Character descriptions
